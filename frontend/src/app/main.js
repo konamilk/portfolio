@@ -6,7 +6,7 @@ import VueObserveVisibility from 'vue-observe-visibility'
 Vue.use(VueObserveVisibility)
 
 Vue.config.productionTip = false
-Vue.config.devtools = true
+Vue.config.devtools = false
 
 new Vue({
   router,
