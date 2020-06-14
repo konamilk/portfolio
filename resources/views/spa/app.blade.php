@@ -7,7 +7,7 @@
     <link rel="icon" href="/app/favicon.ico">
     <link rel="stylesheet" href="/css/normalize.css">
     <link rel="stylesheet" href="/css/skeleton.css">
-    <title>frontend</title>
+    <title>pi:no's portfolio</title>
 <link href="/app/js/0.js" rel="prefetch"><link href="/app/js/app.js" rel="preload" as="script"><link href="/app/js/chunk-vendors.js" rel="preload" as="script"></head>
 <body>
 <noscript>
